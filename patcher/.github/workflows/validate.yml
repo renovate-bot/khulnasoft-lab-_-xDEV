@@ -14,6 +14,6 @@ jobs:
     runs-on: x86_64_monterey
     if: github.repository_owner == 'dortania'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Validate
         run: /Library/Frameworks/Python.framework/Versions/3.11/bin/python3 OpenCore-GUI.command --validate
