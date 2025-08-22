@@ -37,7 +37,7 @@
       "@vuepress/plugin-medium-zoom": "^1.9.8",
       "markdown-it-multimd-table": "^4.2.0",
       "markdown-link-check": "^3.10.3",
-      "markdownlint-cli": "^0.33.0",
+      "markdownlint-cli": "^0.45.0",
       "run-script-os": "^1.1.6",
       "spellchecker-cli": "^7.0.0",
       "vuepress": "^1.9.8",
